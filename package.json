@@ -1,0 +1,27 @@
+{
+  "name": "chatcord",
+  "version": "1.0.0",
+  "description": "Realtime chat app with rooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevShaded/ChatCord.git"
+  },
+  "author": "Fredrik Sundquist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevShaded/ChatCord/issues"
+  },
+  "homepage": "https://github.com/DevShaded/ChatCord#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
