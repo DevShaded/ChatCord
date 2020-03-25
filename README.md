@@ -1,6 +1,6 @@
 # ChatCord
 
-## Realtime chat app with `node.js`
+## Realtime chat app with node.js
 
 ### To run it do
 `npm install`
